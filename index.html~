@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+This is the index. This will have:
+-Image
+-Name
+-Link to Resume
+-Link to Bio
+
+<header>
+
+<title>Alexandria Trombley Resume</title>
+<!--Link to CSS-->
+
+</header>
+
+<body>
+
+<img src="picture.png" border="0" alt="Photo of Alexandria" />
+<a href="resume.html">Resume</a>
+<a href="bio.html">Short Biography</a>
+
+</body>
+
+</html>
