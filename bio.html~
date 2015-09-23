@@ -8,6 +8,10 @@
 
 <body>
 
+<a href="index.html">Home</a>
+<a href="resume.html">Resume</a>
+<a href="contact.html">Contact Information</a>
+
 <h1>Alexandria's Biography</h1>
 
 <p>Alexandria has many interests and passions. By studying Human Factors Engineering at Tufts University, Alexandria has had the opportunity to take classes in and explore many areas of interest. One of Alexandria's primary interests is how humans interact with the world around them. Alexandria has explored this interest in a couple of different capacities. During her freshman year at Tufts, Alexandria completed research on how modern technology impacted classical dance training (at that time, Alexandria had danced classical ballet for fifteen years). With this paper, Alexandria won second place in the Tisch Undergraduate Research Award. This gave her the opportunity to explore the world of musculoskeletal modeling and simulation--a main topic in her research--even further. In the fall of her sophomore year at Tufts, Alexandria was invited to attend a conference on Musculoskeletal Modeling and Simulation in Regensburg Germany as a Tufts Academic Researcher. After attending this conference (and of course seeing the sights of Germany!), Alexandria met Danielle Feerst of AutismSees, LLC. AutismSees was founded with the goal of helping individuals with autism learn to communicate successfull in stressful social situations. Initially, Alexandria was brough onto the AutismSees team as an intern, but was later asked to sign on as a co-founder, and ass the Operating Director of the company. Though her experiences learning about the physical and verbal modes of communication, Alexandria has developed a profound understanding of how humans interact with the world around them </p>
@@ -18,4 +22,6 @@
 
 <p> Please see the contact page if you would like to reach out to Alexandria!</p>
 
+</body>
 
+</html>
