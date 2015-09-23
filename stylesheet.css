@@ -1,0 +1,25 @@
+#three_column {
+
+	/*found here: w3schools.com/css/ */
+	/*sets number of columns*/
+	-webkit-column-count: 3; 
+	-moz-column-count: 3;
+	column-count:3;
+
+}
+
+.keeptogether {
+
+	/*found at Stack Overflow, CSS Column Breaks Page*/
+	/*Keeps content in certain column*/
+	display: inline-block;
+	width: 100%;
+
+}
+
+h3 {
+
+	color: #e88472;
+	text-decoration: none;
+
+}
