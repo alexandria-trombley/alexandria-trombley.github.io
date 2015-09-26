@@ -9,22 +9,34 @@
 </header>
 
 <body>
-<!--sets the margin around the entire page-->
-<span class="set_margin">
 
 <!--Makes the body 3 columns-->
 <div id=three_column>
 
 <!--Puts contained content into first column-->
 <span class="keeptogether">
+
+<!--sets the margin around the column-->
+<span class="set_margin">
+
+<!--aligns the hyperlinks to the right-->
 <div id="right_align">
-<span class="text_format">Home</span>
-<span class="remove_hyperlink_format">
+
+<span class="text_format">Home<br>
 <a href="resume.html">Resume</a><br>
 <a href="bio.html">Biography</a><br>
 <a href="contact.html">Contact Information</a><br>
+
+<!--ends text formatting-->
 </span>
+
+<!--ends right aline-->
 </div>
+
+<!--ends the margin around the column-->
+</span>
+
+<!--ends separation of first column-->
 </span>
 
 <!--Puts picture in second column-->

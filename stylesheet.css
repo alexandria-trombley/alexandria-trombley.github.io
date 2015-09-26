@@ -45,21 +45,14 @@
 
 .set_margin {
 
-	margin: 2em;	
+	margin: 3em;	
 
 }
 
 .text_format {
 
 	color: #e88472;
-	font-size:15px;
+	font-size:20px;
 
 }
 
-.remove_hyperlink_format {
-
-	text-decoration:none;	
-	font-size:15px;
-	color: #e88472;
-
-}

@@ -49,15 +49,10 @@
 
 }
 
-h3 {
+.text_format {
 
 	color: #e88472;
+	font-size:20px;
 
 }
 
-.remove_hyperlink_format {
-
-	text-decoration:none;	
-	color: #e88472;
-
-}
