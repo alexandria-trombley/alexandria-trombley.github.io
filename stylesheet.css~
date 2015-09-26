@@ -1,9 +1,8 @@
 .page_block {
 
 	/*set block style*/
+	background-color:#e0eeee;
 	display:block;
-	padding:25px;
-	border: 32px #226677;
 	margin: 40px;
 	
 
@@ -34,6 +33,7 @@
 	width:35%;
 	height: 80%;
 	vertical-align:top;
+	text-align:right;
 
 }
 
@@ -48,9 +48,9 @@
 
 	/*set text style*/
 	text-align:left;
-	vertical-align:middle;
+	vertical-align:top;
 	color:#e88472;
-	font-size:23px;
+	font-size:22px;
 
 }
 
@@ -59,7 +59,7 @@
 	width: 250px;
 	height: 300px;
 	padding: 10px;
-	border: 10px #226677;
+	border: 10px #e88472;
 	margin:10px;
 
 
