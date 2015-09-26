@@ -20,6 +20,7 @@
 
 	/*set text style*/
 	text-align:right;
+	vertical-align:top;
 	color:#e88472;
 	font-size:15px;
 	
@@ -32,9 +33,7 @@
 	display:inline-block;
 	width:35%;
 	height: 80%;
-	padding:10px;
-	border: 10px #226677;
-	margin: 10px;
+	vertical-align:top;
 
 }
 
@@ -49,12 +48,22 @@
 
 	/*set text style*/
 	text-align:left;
+	vertical-align:middle;
 	color:#e88472;
 	font-size:23px;
 
 }
 
+.picture_formatting {
 
+	width: 250px;
+	height: 300px;
+	padding: 10px;
+	border: 10px #226677;
+	margin:10px;
+
+
+}
 
 
 
