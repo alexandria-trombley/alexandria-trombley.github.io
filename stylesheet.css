@@ -1,8 +1,5 @@
-.page_block {
-
-	/*set block style*/
-	background-color:#e0eeee;
-	display:block;
+body {
+	color:#e0eeee;
 	margin: 40px;
 }
 
@@ -12,7 +9,6 @@
 	display:inline-block;
 	width: 7%;
 	height: 80%;
-	padding:10px;
 	margin: 10px;
 
 	/*set text style*/
@@ -30,6 +26,7 @@
 	display:inline-block;
 	width:35%;
 	height: 80%;
+	margin: 10%;
 	vertical-align:top;
 	text-align:right;
 
@@ -41,7 +38,6 @@
 	display:inline-block;
 	width:40%;
 	height: 80%;
-	padding:10px;
 	margin: 10px;
 
 	/*set text style*/
@@ -54,13 +50,11 @@
 
 .picture_formatting {
 
-	width: 250px;
-	height: 300px;
+	width:180px;
+	height: 210px;
 	padding: 10px;
 	border: 10px #e88472;
 	margin:10px;
-
-
 }
 
 
