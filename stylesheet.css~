@@ -79,6 +79,13 @@ h1 {
 
 }
 
+p {
+
+
+	padding-left: 20px;
+
+}
+
 
 
 

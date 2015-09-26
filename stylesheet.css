@@ -27,7 +27,7 @@ body {
 
 	/*set block style*/
 	display:inline-block;
-	width:15%;
+	width:25%;
 	height: 100%;
 	margin: 8px;
 	vertical-align:top;
@@ -82,7 +82,7 @@ h1 {
 p {
 
 
-	padding-left:9px;
+	padding-left: 20px;
 
 }
 
