@@ -1,5 +1,8 @@
 body {
 	color:#e0eeee;
+	text-color:#810040;
+	padding:5px;
+	border: 2px #810040;
 	margin: 40px;
 }
 
@@ -25,9 +28,9 @@ body {
 	/*set block style*/
 	display:inline-block;
 	width:35%;
-	height: 80%;
+	height: 70%;
 	margin: 10%;
-	vertical-align:top;
+	vertical-align:middle;
 	text-align:right;
 
 }
@@ -51,12 +54,10 @@ body {
 .picture_formatting {
 
 	width:180px;
-	height: 210px;
+	height: 200px;
 	padding: 10px;
 	border: 10px #e88472;
 	margin:10px;
-
-
 }
 
 

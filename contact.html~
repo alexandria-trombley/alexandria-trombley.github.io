@@ -2,11 +2,18 @@
 <html>
 
 <head>
-	<!-- <link /> -->
 	<title>Contact Information</title>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css" />
 </head>
 
 <body>
+
+	<span class="block_A">
+		<a href="index.html">Home</a><br>
+		<a href="resume.html">Resume</a><br>
+		<a href="bio.html">Biography</a><br>
+		Contact Information
+	</span>
 
 <h2> If you are interested in contacting Alexandria, please email her at alexandria.trombley@tufts.edu </h2>
 

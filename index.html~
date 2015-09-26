@@ -28,7 +28,7 @@
 
 		<span class="picture_formatting">
 		<img src="picture.png" border="0" alt="Photo of Alexandria" />
-		<span>
+		</span>
 	</span>
 
 	<!--sets style for third column-->
