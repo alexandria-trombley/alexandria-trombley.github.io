@@ -51,6 +51,22 @@ body {
 
 }
 
+.block_D {
+
+	/*set block style*/
+	display:inline-block;
+	width:70%;
+	height: 100%;
+	margin: 8px;
+
+	/*set text style*/
+	text-align:left;
+	vertical-align:top;
+	color:#e88472;
+	font-size:20px;
+
+}
+
 .picture_formatting {
 
 	width:150px;
@@ -58,12 +74,6 @@ body {
 }
 
 
-.block_width_75 {
-
-	width: 75%;
-	color:blue;
-
-}
 
 
 
