@@ -1,5 +1,6 @@
 .page_block {
 
+	/*set block style*/
 	display:block;
 	padding:25px;
 	border: 32px #226677;
@@ -12,15 +13,15 @@
 
 	/*set block style*/
 	display:inline-block;
-	width: 10%;
+	width: 7%;
 	height: 80%;
-	padding:25px;
-	margin: 25px;
+	padding:10px;
+	margin: 10px;
 
 	/*set text style*/
 	text-align:right;
 	color:#e88472;
-	font-size:20px;
+	font-size:15px;
 	
 
 }
@@ -29,11 +30,11 @@
 
 	/*set block style*/
 	display:inline-block;
-	width:40%;
+	width:35%;
 	height: 80%;
-	padding:25px;
-	border: 25px #226677;
-	margin: 25px;
+	padding:10px;
+	border: 10px #226677;
+	margin: 10px;
 
 }
 
@@ -43,13 +44,13 @@
 	display:inline-block;
 	width:40%;
 	height: 80%;
-	padding:25px;
-	margin: 25px;
+	padding:10px;
+	margin: 10px;
 
 	/*set text style*/
 	text-align:left;
 	color:#e88472;
-	font-size:30px;
+	font-size:23px;
 
 }
 
