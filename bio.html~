@@ -12,10 +12,10 @@
 <body>
 
 	<span class="block_A">
-		<a href="index.html">Home</a>
-		<a href="resume.html">Resume</a>
+		<a href="index.html">Home</a><br>
+		<a href="resume.html">Resume</a><br>
 		Biography <br>
-		<a href="contact.html">Contact Information</a>
+		<a href="contact.html">Contact</a>
 	</span>
 
 	<span class="block_C">
@@ -38,6 +38,7 @@
 
 			<p> Please see the contact page if you would like to reach 				out to Alexandria!</p>
 
+	</span>
 	</span>
 
 </body>
