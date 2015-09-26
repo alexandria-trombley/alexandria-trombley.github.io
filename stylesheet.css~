@@ -45,7 +45,7 @@
 
 .set_margin {
 
-	margin: 2em;	
+	margin-top: 40px;	
 
 }
 
