@@ -45,19 +45,13 @@
 
 .set_margin {
 
-	margin: 8em;	
+	margin: 2em;	
 
 }
 
 h3 {
 
 	color: #e88472;
-
-}
-
-#right_col_format {
-
-	font-size:20em;
 
 }
 
