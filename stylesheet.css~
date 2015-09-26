@@ -16,3 +16,48 @@
 	width: 100%;
 
 }
+
+#narrow_column {
+
+	/*make column narrow*/
+	column-width:50em;
+
+	/*put a border around the column*/
+	-webkit-column-rule-style:solid;
+	-moz-column-rule-style:solid;
+	column-rule-style:solid;
+
+	/*set the width of that border*/
+	-webkit-column-rule-width:1em;
+	-mox-column-rule-width:1em;
+	column-rule-width:1em;
+
+	/*set the color of that border*/
+	column-rule-color: #810040;
+
+}
+
+#right_align {
+
+	text-align: right;
+
+}
+
+.set_margin {
+
+	margin: 8em;	
+
+}
+
+h3 {
+
+	color: #e88472;
+
+}
+
+.remove_hyperlink_format {
+
+	text-decoration:none;	
+	color: #e88472;
+
+}
