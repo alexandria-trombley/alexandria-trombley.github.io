@@ -55,6 +55,12 @@ h3 {
 
 }
 
+#right_col_format {
+
+	font-size:20em;
+
+}
+
 .remove_hyperlink_format {
 
 	text-decoration:none;	
