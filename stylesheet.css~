@@ -1,63 +1,70 @@
-#three_column {
+.page_block {
 
-	/*found here: w3schools.com/css/ */
-	/*sets number of columns*/
-	-webkit-column-count: 3; 
-	-moz-column-count: 3;
-	column-count:3;
-
-}
-
-.keeptogether {
-
-	/*found at Stack Overflow, CSS Column Breaks Page*/
-	/*Keeps content in certain column*/
-	display: inline-block;
-	width: 100%;
+	display:block;
+	padding:25px;
+	border: 32px #226677;
+	margin: 40px;
+	
 
 }
 
-#narrow_column {
+.block_A {
 
-	/*make column narrow*/
-	column-width:15%;
+	/*set block style*/
+	display:inline-block;
+	width: 10%;
+	height: 80%;
+	padding:25px;
+	margin: 25px;
 
-	/*put a border around the column*/
-	-webkit-column-rule-style:solid;
-	-moz-column-rule-style:solid;
-	column-rule-style:solid;
-
-	/*set the color of that border*/
-	column-rule-color: #810040;
-
-}
-
-#other_column {
-
-	column-width:40%
+	/*set text style*/
+	text-align:right;
 	color:#e88472;
-
-}
-
-#right_align {
-
-	text-align: right;
-
-}
-
-.set_margin {
-
-	margin-top: 40px;
-	margin-bottom:40px;
-	margin-right:55px;
-	margin-left:55px;	
-
-}
-
-.text_format {
-
-	color: #e88472;
 	font-size:20px;
+	
 
 }
+
+.block_B {
+
+	/*set block style*/
+	display:inline-block;
+	width:40%;
+	height: 80%;
+	padding:25px;
+	border: 25px #226677;
+	margin: 25px;
+
+}
+
+.block_C {
+
+	/*set block style*/
+	display:inline-block;
+	width:40%;
+	height: 80%;
+	padding:25px;
+	margin: 25px;
+
+	/*set text style*/
+	text-align:left;
+	color:#e88472;
+	font-size:30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
