@@ -1,5 +1,5 @@
 body {
-	color:#e0eeee;
+	background-color:#e0eeee;
 	text-color:#810040;
 	padding:5px;
 	border: 2px #810040;
