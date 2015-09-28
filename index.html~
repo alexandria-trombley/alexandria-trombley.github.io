@@ -28,7 +28,7 @@
 		<!--adds picture to index with proper formatting-->
 		<span class="picture_formatting">
 
-			<img src="picture.png" alt="Photo of Alexandria" />
+			<img src="picture.png" alt="Photo of Alexandria" 				height="360" width="300"/>
 		
 		<!--ends picture formatting-->
 		</span>
@@ -37,7 +37,7 @@
 	</span>
 
 	<!--sets style for third column: short paragraph-->
-	<span class="block_C">
+	<div id="block_C">
 
 		<h1>Alexandria Trombley</h1>
 
