@@ -2,7 +2,6 @@ body {
 	background-color:#e0eeee;
 	text-color:#810040;
 	padding:5px;
-	border: 2px #810040;
 	margin: 10px;
 }
 
@@ -101,7 +100,6 @@ h1 {
 
 /* formats all <p> in project */
 p {
-
 
 	padding-left: 20px;
 

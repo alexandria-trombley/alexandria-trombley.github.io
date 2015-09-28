@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 
-<header>
+<head>
 
 	<title>Alexandria Trombley Resume</title>
 	<link rel="stylesheet" type="text/css" href="stylesheet.css" />
 
-</header>
+</head>
 
 <body>
 
@@ -28,7 +28,7 @@
 		<!--adds picture to index with proper formatting-->
 		<span class="picture_formatting">
 
-			<img src="picture.png" border="0" alt="Photo of 			Alexandria" height="360" width="300" />
+			<img src="picture.png" alt="Photo of Alexandria" />
 		
 		<!--ends picture formatting-->
 		</span>
