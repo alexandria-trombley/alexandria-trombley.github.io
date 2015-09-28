@@ -74,6 +74,12 @@ body {
 	height: 180px;
 }
 
+.vertical_line {
+
+	border-left: thick solid #810040;
+
+}
+
 h1 {
 
 	color: #810040;
