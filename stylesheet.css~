@@ -6,6 +6,8 @@ body {
 	margin: 10px;
 }
 
+/* sets the style for left column of index */
+/* this will also be used on other pages */
 .block_A {
 
 	/*set block style*/
@@ -24,6 +26,7 @@ body {
 
 }
 
+/* this is used for the middle block of the index */
 .block_B {
 
 	/*set block style*/
@@ -36,6 +39,8 @@ body {
 
 }
 
+/* this is used for the right block of the index */
+/* this is also used on other pages */
 .block_C {
 
 	/*set block style*/
@@ -52,6 +57,8 @@ body {
 
 }
 
+/* this is used when a wider block is required */
+/* used in resume, bio, and contact */
 .block_D {
 
 	/*set block style*/
@@ -68,25 +75,31 @@ body {
 
 }
 
+/* formats the headshot */
 .picture_formatting {
 
 	width:150px;
 	height: 180px;
 }
 
+/* this formats the horizontal line */
 hr {
 
 	border-width: 2px;
 	color: #810040;
+	margin-top: 1px;
+	margin-bottom: 1px;
 
 }
 
+/* assigns color to h1 tag */
 h1 {
 
 	color: #810040;
 
 }
 
+/* formats all <p> in project */
 p {
 
 
