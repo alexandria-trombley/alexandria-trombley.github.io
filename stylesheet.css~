@@ -40,7 +40,7 @@ body {
 
 /* this is used for the right block of the index */
 /* this is also used on other pages */
-.block_C {
+#block_C {
 
 	/*set block style*/
 	display:inline-block;

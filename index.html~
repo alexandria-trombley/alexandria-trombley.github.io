@@ -25,13 +25,7 @@
 	<!--sets style for second column: picture-->
 	<span class="block_B">
 
-		<!--adds picture to index with proper formatting-->
-		<span class="picture_formatting">
-
-		<!--	<img src="picture.png" alt="Photo of Alexandria" --> 				height="360" width="300"/>
-		
-		<!--ends picture formatting-->
-		</span>
+		<img src="picture.png" alt="Photo of Alexandria"  			height="360" width="300"/>
 
 	<!--ends picture block formatting-->
 	</span>
