@@ -7,7 +7,7 @@ body {
 
 /* sets the style for left column of index */
 /* this will also be used on other pages */
-.block_A {
+#block_A {
 
 	/*set block style*/
 	display:inline-block;
@@ -26,7 +26,7 @@ body {
 }
 
 /* this is used for the middle block of the index */
-.block_B {
+#block_B {
 
 	/*set block style*/
 	display:inline-block;
@@ -58,7 +58,7 @@ body {
 
 /* this is used when a wider block is required */
 /* used in resume, bio, and contact */
-.block_D {
+#block_D {
 
 	/*set block style*/
 	display:inline-block;
@@ -72,13 +72,6 @@ body {
 	color:#42647f;
 	font-size:20px;
 
-}
-
-/* formats the headshot */
-.picture_formatting {
-
-	width:150px;
-	height: 180px;
 }
 
 /* this formats the horizontal line */
