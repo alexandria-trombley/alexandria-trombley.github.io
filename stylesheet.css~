@@ -74,9 +74,10 @@ body {
 	height: 180px;
 }
 
-.vertical_line {
+hr {
 
-	border-left: thick solid #810040;
+	border-width: 2px;
+	color: #810040;
 
 }
 
